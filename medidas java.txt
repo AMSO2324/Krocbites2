@@ -1,0 +1,49 @@
+#062f40 azul oscuro
+
+#1e592d verde oscuro
+
+#51a64e verde claro
+
+#d3af85 color piel
+
+#aabde8 color violeta
+
+//**
+tamaño de las imágenes de banner 820 x 76
+
+tamaño de iconos 
+64 px  y 25px
+
+
+
+ 0,158,190,1)
+------------------------------------
+ colores que podría ocupar:
+
+#90A9BF  azul oscuro: panel de menu
+blanco
+#B0C4DE  Color del panel grid (gris)
+B0C4D6
+
+-----------------------------------
+Panel de menu: [384, 837]
+Panel de arriba: [1253, 130]
+
+-----------------------------------
+
+Panel del sub menu 
+preferebd size: [263, 63]
+
+-----------------------------------
+ESPACIADO DE TEXTO DE MENU
+
+preferebd size: [184, 24]
+-----------------------------------
+PANELES REDONDEADOS
+[244, 330]
+
+IMAGEN DE PANEL REDONDEADO
+preferebd size: [95, 95]
+Vertical size: 154
+
+
